@@ -4,11 +4,12 @@ ComPortToUdp is a Windows Forms application developed in C# that facilitates the
 
 Features
 
-- **Select COM Port**: Choose from available COM ports connected to your system.
-- **Adjust Baud Rate**: Select a baud rate for serial communication from a dropdown menu.
-- **Read Data**: Read incoming data from the selected serial port in real-time.
-- **Broadcast Data**: Send the received data to a specified UDP endpoint with the click of a button.
-- **User-Friendly Interface**: Simple GUI to facilitate easy interaction with the application.
+- Select COM Port: Choose from available COM ports connected to your system.
+- Second Port: Open a second com port to read and broadcast data via UDP
+- Adjust Baud Rate: Select a baud rate for serial communication from a dropdown menu.
+- Read Data: Read incoming data from the selected serial port in real-time.
+- Broadcast Data: Send the received data to a specified UDP endpoint with the click of a button.
+- User-Friendly Interface: Simple GUI to facilitate easy interaction with the application.
 
 Requirements
 
